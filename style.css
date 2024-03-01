@@ -12,7 +12,9 @@
 }
 ::-webkit-scrollbar-thumb {
   background-color: #1c333b;
+  border-radius: 10px;
 }
+
 body {
   background-color: #f9f9f9;
 }
